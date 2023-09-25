@@ -4,15 +4,15 @@ Submitted by: **Rashydia Blair**
 
 **Wordle Game** is an app that give a user up to six guesses to correctly determine what the mystery word is. With each guess, the letters turn green if the letter is correct and in the right position. The letter will turn yellow if the guess is correct but in the wrong position. If the guess is incorrect, no change will be made. 
 
-Time spent: ** 6 ** hours spent in total
+Time spent: ** 9 ** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] App displays a keyboard on the screen
-- [ ] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [X] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
@@ -26,10 +26,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/53d1eebb3c014b979be0df3804f6199d">
+    <a href="https://www.loom.com/share/59d2ae3f04e94aa585c227bbe7378848">
+      <p>Projects: Unit 1 - IOS101 | Intro to iOS Development | CodePath Courses 
     </a>
-    <a href="https://www.loom.com/share/53d1eebb3c014b979be0df3804f6199d">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/53d1eebb3c014b979be0df3804f6199d-with-play.gif">
+    <a href="https://www.loom.com/share/59d2ae3f04e94aa585c227bbe7378848">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/59d2ae3f04e94aa585c227bbe7378848-with-play.gif">
     </a>
   </div>
 
@@ -38,7 +39,7 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
-I had a difficult time with the first three steps and I haven't been able to complete the project on time. I will spend more time to finish the project so that I can be prepared for the next project. This project did help me realize that I do need a lot more practice with the Swift language.
+I had a difficult time with the first three steps and I haven't been able to complete the project on time. However, I did go back and finish the project even though it took longer than expected. 
 
 ## License
 

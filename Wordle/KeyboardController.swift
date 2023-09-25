@@ -6,7 +6,6 @@
 //
 
 import UIKit
-import KeyboardCell
 
 class KeyboardController: NSObject,
                           UICollectionViewDataSource,
@@ -42,10 +41,7 @@ class KeyboardController: NSObject,
     cell.configure(with: keyboardRows[indexPath.section][indexPath.row])
     // Exercise 4: Pass in the `didSelectString` closure to the KeyboardCell's corresponding property
     // START YOUR CODE HERE
-      let keyboardCell = KeyboardCell()
-      let didSelectStringClosure: (String) -> Void = { selectedString in
-          keyboardCell.didSelectString()
-      }
+    cell.didSelectString = didSelectString
     // END YOUR CODE HERE
     return cell
   }
