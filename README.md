@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [X] App displays a keyboard on the screen
 - [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [X] User can play a basic version of Wordle, with different goal words each time
+- [] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
@@ -26,20 +26,18 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/59d2ae3f04e94aa585c227bbe7378848">
-      <p>Projects: Unit 1 - IOS101 | Intro to iOS Development | CodePath Courses 
+    <a href="https://www.loom.com/share/de4a0e2ac95745eca194db006176ed6c">
     </a>
-    <a href="https://www.loom.com/share/59d2ae3f04e94aa585c227bbe7378848">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/59d2ae3f04e94aa585c227bbe7378848-with-play.gif">
+    <a href="https://www.loom.com/share/de4a0e2ac95745eca194db006176ed6c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/de4a0e2ac95745eca194db006176ed6c-with-play.gif">
     </a>
   </div>
-
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-I had a difficult time with the first three steps and I haven't been able to complete the project on time. However, I did go back and finish the project even though it took longer than expected. 
+I had a difficult time with the first three steps and I haven't been able to complete the project on time. However, I did go back and finish the project even though it took longer than expected. I also went wrong somewhere in my code as it won't produce one of the possible words as correct in green.
 
 ## License
 

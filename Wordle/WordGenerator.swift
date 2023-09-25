@@ -15,7 +15,7 @@ class WordGenerator {
   static let possibleWords = ["ABCDE"]
   static func generateRandomWord() -> String? {
     // START YOUR CODE HERE
-    let wordIndex = Int(arc4random_uniform(UInt32(possibleWords.count)))
+    let possibleWords = ["ADDED", "CEDED", "EBBED"]
     return possibleWords.first
     // END YOUR CODE HERE
   }
