@@ -26,13 +26,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/de4a0e2ac95745eca194db006176ed6c">
+    <a href="https://www.loom.com/share/ad40aae662024120bd03eaeff55194e5">
     </a>
-    <a href="https://www.loom.com/share/de4a0e2ac95745eca194db006176ed6c">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/de4a0e2ac95745eca194db006176ed6c-with-play.gif">
+    <a href="https://www.loom.com/share/ad40aae662024120bd03eaeff55194e5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ad40aae662024120bd03eaeff55194e5-with-play.gif">
     </a>
   </div>
-
 ## Notes
 
 Describe any challenges encountered while building the app.
